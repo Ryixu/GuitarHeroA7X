@@ -1,0 +1,13 @@
+{
+    "openGH3Console": true,
+    "allowQScriptPrintf": true,
+    "windowStyle": 3,
+    "pluginLogType": 1,
+    "unlockfps": true,
+    "versionInfo": {
+        "major": 1,
+        "minor": 3,
+        "revision": 1,
+        "type": 0
+    }
+}

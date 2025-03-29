@@ -1,0 +1,1152 @@
+19:18:40 INFO  [Nylon]: Wine was not detected. Assuming we are running on a Windows NT OS Please report this if this detection is an error.
+19:18:40 INFO  [Nylon]: Minhook initialized!
+19:18:40 INFO  [Nylon]: Setting up default hooks...
+19:18:40 INFO  [Nylon]: Hooked function at address: 0x770689E0
+19:18:40 INFO  [Nylon]: Hooked function at address: 0x77068320
+19:18:40 INFO  [Nylon]: Hooked function at address: 0x77062520
+19:18:41 INFO  [Nylon]: Hooked function at address: 0x00530970
+19:18:41 INFO  [Nylon]: Hooked function at address: 0x00530940
+19:18:41 INFO  [Nylon]: Hooked function at address: 0x004A1780
+19:18:41 INFO  [Nylon]: Hooked function at address: 0x00472B50
+19:18:41 INFO  [Nylon]: Hooked function at address: 0x0057B940
+19:18:41 INFO  [Nylon]: Hooked function at address: 0x00601D30
+19:18:41 INFO  [Nylon]: Hooked function at address: 0x0047DFA0
+19:18:41 INFO  [Nylon]: Hooked function at address: 0x0057AE20
+19:18:41 INFO  [Nylon]: Hooked function at address: 0x00D94EE8
+19:18:41 INFO  [Nylon]: Hooked function at address: 0x004A6820
+19:18:41 INFO  [Nylon]: Hooked function at address: 0x0047E5B0
+19:18:41 INFO  [Nylon]: Finished setting up default hooks.
+19:18:41 INFO  [Nylon]: Loading mods...
+19:18:41 INFO  [Nylon]: Loading mods from: "C:\Games\Guitar Hero III\nylon\Mods"
+19:18:41 INFO  [Nylon]: Checking for: "C:\Games\Guitar Hero III\nylon\Mods\GH3Deluxe\modinfo.json"...
+19:18:41 INFO  [Nylon]: Loading...
+19:18:41 INFO  [Nylon]: Found mod: gh3dx
+19:18:41 INFO  [Nylon]: Finished loading mods.
+19:18:41 INFO  [Nylon]: Finished Core Initialization!
+19:18:42 INFO  [Nylon]: Expecting: "GH3Deluxe\pak\gh3dx.pak"
+19:18:42 INFO  [Nylon]: Found it! Loading...
+19:18:42 INFO  [Nylon]: Done!
+19:18:42 INFO  [Nylon]: Hooking DirectX 9...
+19:18:42 INFO  [Nylon]: Hooked function at address: 0x63116500
+19:18:42 INFO  [Nylon]: Hooked function at address: 0x63116120
+19:18:43 INFO  [Nylon]: Hooked function at address: 0x5935B040
+19:18:43 ERROR [Nylon]: Failed to hook function at address: 0x5935B040 Error Code: 3
+19:18:43 INFO  [Nylon]: Finished hooking DirectX 9.
+19:18:43 INFO  [Nylon]: Hooked function at address: 0x5935C550
+19:18:43 ERROR [Nylon]: Failed to hook function at address: 0x5935C550 Error Code: 3
+19:18:43 INFO  [Nylon]: KeyboardSetCooperativeLevel -> 6
+19:18:43 INFO  [Nylon]: KeyboardSetCooperativeLevel -> 5
+19:18:45 INFO  [GH3]: {
+19:18:45 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+19:18:45 INFO  [GH3]:   Unknown(0xd4c98794) (QTypeWString) : "CHECKING..."
+19:18:45 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+19:18:45 INFO  [GH3]: 	{
+19:18:45 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Checking storage device..."
+19:18:45 INFO  [GH3]: 	}
+19:18:45 INFO  [GH3]: }
+19:18:45 INFO  [GH3]: {
+19:18:45 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+19:18:45 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+19:18:45 INFO  [GH3]: 	{
+19:18:45 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Game content is damaged and cannot be used. Do you want to delete this content? All progress within this save content will be lost."
+19:18:45 INFO  [GH3]: 	  Unknown(0x34a68574) (QTypePair) : (800, 500)
+19:18:45 INFO  [GH3]: 	  Unknown(0x7f261953) (QTypePair) : (640, 375)
+19:18:45 INFO  [GH3]: 	  Unknown(0x13b9da7b) (QTypeFloat) : 0.5
+19:18:45 INFO  [GH3]: 	}
+19:18:45 INFO  [GH3]:   Unknown(0xe787d761) (QTypePair) : (640, 465)
+19:18:45 INFO  [GH3]:   Unknown(0xad8a5a63) (QTypePair) : (256, 64)
+19:18:45 INFO  [GH3]:   Unknown(0x2fca0578) (QTypeQbArray) : Type:"QTypeQbArray" Size:1105770000
+19:18:45 INFO  [GH3]: }
+19:18:45 INFO  [GH3]: {
+19:18:45 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+19:18:45 INFO  [GH3]:   Unknown(0xd4c98794) (QTypeWString) : "SUCCESSFUL"
+19:18:45 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+19:18:45 INFO  [GH3]: 	{
+19:18:45 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Load successful."
+19:18:45 INFO  [GH3]: 	}
+19:18:45 INFO  [GH3]: }
+19:18:47 INFO  [GH3]: {
+19:18:47 INFO  [GH3]:   Unknown(0x7323e97c) (QTypeQbArray) : Type:"QTypeQbArray" Size:1109421840
+19:18:47 INFO  [GH3]: }
+19:18:48 INFO  [GH3]: {
+19:18:48 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x14d63a13
+19:18:48 INFO  [GH3]: }
+19:18:49 INFO  [GH3]: {
+19:18:49 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xed108a91
+19:18:49 INFO  [GH3]: }
+19:18:49 INFO  [GH3]: {
+19:18:49 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x31eebbd
+19:18:49 INFO  [GH3]: }
+19:18:49 INFO  [GH3]: {
+19:18:49 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xea7d4e88
+19:18:49 INFO  [GH3]: }
+19:18:49 INFO  [GH3]: {
+19:18:49 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x4732fa4
+19:18:49 INFO  [GH3]: }
+19:18:49 INFO  [GH3]: {
+19:18:49 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:49 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xce03cb05
+19:18:49 INFO  [GH3]: }
+19:18:49 INFO  [GH3]: {
+19:18:49 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:49 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xebf510f4
+19:18:49 INFO  [GH3]: }
+19:18:49 INFO  [GH3]: {
+19:18:49 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:49 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x5fb71d8
+19:18:49 INFO  [GH3]: }
+19:18:49 INFO  [GH3]: {
+19:18:49 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:49 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xec98d4ed
+19:18:49 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x296b5c1
+19:18:50 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xe52e98c6
+19:18:50 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xf2ee21b5
+19:18:50 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x1ce04099
+19:18:50 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xf583e5ac
+19:18:50 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x1b8d8480
+19:18:50 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xfc35a987
+19:18:50 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xbdafb772
+19:18:50 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x53a1d65e
+19:18:50 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xbac2736b
+19:18:50 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x54cc1247
+19:18:50 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xb3743f40
+19:18:50 INFO  [GH3]: }
+19:18:50 INFO  [GH3]: {
+19:18:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xa4b48633
+19:18:50 INFO  [GH3]: }
+19:18:51 INFO  [GH3]: {
+19:18:51 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:51 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xa4b48633
+19:18:51 INFO  [GH3]: }
+19:18:51 INFO  [GH3]: {
+19:18:51 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:51 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xb3743f40
+19:18:51 INFO  [GH3]: }
+19:18:51 INFO  [GH3]: {
+19:18:51 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:51 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x54cc1247
+19:18:51 INFO  [GH3]: }
+19:18:53 INFO  [GH3]: {
+19:18:53 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:18:53 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x54cc1247
+19:18:53 INFO  [GH3]: }
+19:18:55 INFO  [GH3]: {
+19:18:55 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:18:55 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 7
+19:18:55 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0x6c4ea623
+19:18:55 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4
+19:18:55 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x7577417b
+19:18:55 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x7b58d853
+19:18:55 INFO  [GH3]: }
+19:18:55 INFO  [GH3]: {
+19:18:55 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0xff03cc4e
+19:18:55 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:18:55 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:18:55 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:18:55 INFO  [GH3]: }
+19:18:55 INFO  [GH3]: {
+19:18:55 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:18:55 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 7
+19:18:55 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0x6c4ea623
+19:18:55 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4
+19:18:55 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x7577417b
+19:18:55 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x7b58d853
+19:18:55 INFO  [GH3]: }
+19:18:55 INFO  [GH3]: {
+19:18:55 INFO  [GH3]:   Unknown(0x7321a8d6) (QTypeQbKey) : 0xe5fa3adf
+19:18:55 INFO  [GH3]: }
+19:18:55 INFO  [GH3]: {
+19:18:55 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:18:55 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:18:55 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:18:55 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:18:55 INFO  [GH3]: }
+19:18:55 INFO  [GH3]: {
+19:18:55 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:18:55 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:18:55 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:18:55 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:18:55 INFO  [GH3]: }
+19:18:56 INFO  [GH3]: {
+19:18:56 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:18:56 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:18:56 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:18:56 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:18:56 INFO  [GH3]: }
+19:18:56 INFO  [GH3]: {
+19:18:56 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:18:56 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:18:56 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:18:56 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:18:56 INFO  [GH3]: }
+19:18:56 INFO  [GH3]: {
+19:18:56 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:18:56 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:18:56 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:18:56 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:18:56 INFO  [GH3]: }
+19:18:56 INFO  [GH3]: {
+19:18:56 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:18:56 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:18:56 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:18:56 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:18:56 INFO  [GH3]: }
+19:18:56 INFO  [GH3]: {
+19:18:56 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:18:56 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:18:56 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:18:56 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:18:56 INFO  [GH3]: }
+19:18:56 INFO  [GH3]: {
+19:18:56 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:18:56 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:18:56 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:18:56 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:18:56 INFO  [GH3]: }
+19:18:56 INFO  [GH3]: {
+19:18:56 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:18:56 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:18:56 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:18:56 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:18:56 INFO  [GH3]: }
+19:18:56 INFO  [GH3]: {
+19:18:56 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:18:56 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:18:56 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:18:56 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:18:56 INFO  [GH3]: }
+19:18:58 INFO  [GH3]: {
+19:18:58 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+19:18:58 INFO  [GH3]: 	{
+19:18:58 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "You will lose all unsaved progress if you restart. Are you sure you want to restart this song?"
+19:18:58 INFO  [GH3]: 	  Unknown(0x34a68574) (QTypePair) : (600, 400)
+19:18:58 INFO  [GH3]: 	  Unknown(0x13b9da7b) (QTypeFloat) : 0.6
+19:18:58 INFO  [GH3]: 	}
+19:18:58 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+19:18:58 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0xeafc692e
+19:18:58 INFO  [GH3]:   Unknown(0xe787d761) (QTypePair) : (640, 480)
+19:18:58 INFO  [GH3]:   Unknown(0xad8a5a63) (QTypePair) : (600, 80)
+19:18:58 INFO  [GH3]:   Unknown(0x2fca0578) (QTypeQbArray) : Type:"QTypeQbArray" Size:1389752544
+19:18:58 INFO  [GH3]: }
+19:18:59 INFO  [GH3]: {
+19:18:59 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:18:59 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 7
+19:18:59 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0x6c4ea623
+19:18:59 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4294967295
+19:18:59 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x806fff30
+19:18:59 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x806fff30
+19:18:59 INFO  [GH3]: }
+19:18:59 INFO  [GH3]: {
+19:18:59 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:18:59 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 7
+19:18:59 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0x6c4ea623
+19:18:59 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4294967295
+19:18:59 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x806fff30
+19:18:59 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x806fff30
+19:18:59 INFO  [GH3]: }
+19:18:59 INFO  [GH3]: {
+19:18:59 INFO  [GH3]:   Unknown(0x2e41f796) (QTypeInt) : 3000
+19:18:59 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0xda99b63b
+19:18:59 INFO  [GH3]: }
+19:22:47 INFO  [GH3]: {
+19:22:47 INFO  [GH3]:   Unknown(0x8d53f1a8) (QTypeCString) : "p1_career"
+19:22:47 INFO  [GH3]:   Unknown(0x6f402ef3) (QTypeQbKey) : 0x27e6b559
+19:22:47 INFO  [GH3]:   Unknown(0xf9461a46) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x68e4ef11) (QTypeInt) : 1
+19:22:47 INFO  [GH3]:   Unknown(0xfc2cdee3) (QTypeQbKey) : 0x6840922f
+19:22:47 INFO  [GH3]:   Unknown(0x1fbdbe71) (QTypeInt) : 4294967295
+19:22:47 INFO  [GH3]:   Unknown(0xb38db12c) (QTypeInt) : 4294967295
+19:22:47 INFO  [GH3]:   Unknown(0x97ca3b34) (QTypeInt) : 4294967295
+19:22:47 INFO  [GH3]:   Unknown(0xa1dc81f9) (QTypeWString) : "A"
+19:22:47 INFO  [GH3]:   Unknown(0x06afff1e) (QTypeInt) : 1
+19:22:47 INFO  [GH3]:   Unknown(0x3ae567d9) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x56849e71) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0xb65414e8) (QTypeQbKey) : 0x6840922f
+19:22:47 INFO  [GH3]:   Unknown(0xfaea61a2) (QTypeCString) : "A"
+19:22:47 INFO  [GH3]:   Unknown(0x818af862) (QTypeCString) : "expert"
+19:22:47 INFO  [GH3]:   Unknown(0x4fe8ccfa) (QTypeCString) : "expert"
+19:22:47 INFO  [GH3]:   Unknown(0x28f07394) (QTypeQbArray) : Type:"QTypeQbArray" Size:1109705872
+19:22:47 INFO  [GH3]:   Unknown(0xcbc90a15) (QTypeInt) : 100
+19:22:47 INFO  [GH3]:   Unknown(0xd495ab7b) (QTypeQbArray) : Type:"QTypeQbArray" Size:1109705344
+19:22:47 INFO  [GH3]:   Unknown(0xe926d35f) (QTypeInt) : 100
+19:22:47 INFO  [GH3]:   Unknown(0x011baaf9) (QTypeInt) : 39000000
+19:22:47 INFO  [GH3]:   Unknown(0x8b89537e) (QTypeInt) : 100
+19:22:47 INFO  [GH3]:   Unknown(0x5a0d69b4) (QTypeInt) : 39000000
+19:22:47 INFO  [GH3]:   Unknown(0x6151561a) (QTypeInt) : 100
+19:22:47 INFO  [GH3]:   Unknown(0x896c2fbc) (QTypeInt) : 39000000
+19:22:47 INFO  [GH3]:   Unknown(0x02e1858b) (QTypeInt) : 100
+19:22:47 INFO  [GH3]:   Unknown(0xd365bf41) (QTypeInt) : 39000000
+19:22:47 INFO  [GH3]:   Unknown(0x95e7b7e0) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x2f2a8266) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0xa1519d6d) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0xfddc5ce1) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x94fa81cd) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x47da89ec) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x841fb3b4) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x1a2c461f) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x4eac7a14) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x41a5caa6) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x20dd76c7) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x8ab4f025) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0xfc3ed0e2) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x02c37560) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0xb9131cee) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0x2b039206) (QTypeInt) : 1
+19:22:47 INFO  [GH3]:   Unknown(0xf646cb13) (QTypeInt) : 0
+19:22:47 INFO  [GH3]:   Unknown(0xb9d4f601) (QTypeInt) : 2915
+19:22:47 INFO  [GH3]:   Unknown(0xfa991675) (QTypeFloat) : 747844
+19:22:47 INFO  [GH3]:   Unknown(0x75560617) (QTypeFloat) : 747844
+19:22:47 INFO  [GH3]: }
+19:22:48 INFO  [GH3]: {
+19:22:48 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:48 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x402810b
+19:22:48 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x9a17ba07
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x7419db2b
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x9d7a7e1e
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x73741f32
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xb06e9571
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x5e60f45d
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xb9d8d95a
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xae186029
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x40160105
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xa975a430
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x477bc51c
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xa0c3e81b
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x7d9c6539
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x93920415
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x7af1a120
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x94ffc00c
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x7347ed0b
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x64875478
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x8a893554
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x63ea9061
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x8de4f14d
+19:22:50 INFO  [GH3]: }
+19:22:50 INFO  [GH3]: {
+19:22:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x6a5cdc4a
+19:22:50 INFO  [GH3]: }
+19:22:51 INFO  [GH3]: {
+19:22:51 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:51 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x8de4f14d
+19:22:51 INFO  [GH3]: }
+19:22:52 INFO  [GH3]: {
+19:22:52 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:52 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x63ea9061
+19:22:52 INFO  [GH3]: }
+19:22:53 INFO  [GH3]: {
+19:22:53 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:53 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x8a893554
+19:22:53 INFO  [GH3]: }
+19:22:54 INFO  [GH3]: {
+19:22:54 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:54 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x64875478
+19:22:54 INFO  [GH3]: }
+19:22:54 INFO  [GH3]: {
+19:22:54 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:22:54 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x7347ed0b
+19:22:54 INFO  [GH3]: }
+19:23:04 INFO  [GH3]: {
+19:23:04 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:23:04 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 5
+19:23:04 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0x85a73ac6
+19:23:04 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4
+19:23:04 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x85a73ac6
+19:23:04 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x9556b97f
+19:23:04 INFO  [GH3]: }
+19:23:04 INFO  [GH3]: {
+19:23:04 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:23:04 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:23:04 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:23:04 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:23:04 INFO  [GH3]: }
+19:23:04 INFO  [GH3]: {
+19:23:04 INFO  [GH3]:   Unknown(0x7321a8d6) (QTypeQbKey) : 0x7acf53ca
+19:23:04 INFO  [GH3]: }
+19:23:04 INFO  [GH3]: {
+19:23:04 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:23:04 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:23:04 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:23:04 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:23:04 INFO  [GH3]: }
+19:23:04 INFO  [GH3]: {
+19:23:04 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:23:04 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:23:04 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:23:04 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:23:04 INFO  [GH3]: }
+19:23:04 INFO  [GH3]: {
+19:23:04 INFO  [GH3]:   Unknown(0x2e41f796) (QTypeInt) : 5000
+19:23:04 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0xd4c98794) (QTypeWString) : "CHECKING..."
+19:23:31 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+19:23:31 INFO  [GH3]: 	{
+19:23:31 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Checking storage device..."
+19:23:31 INFO  [GH3]: 	}
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0xd4c98794) (QTypeWString) : "SUCCESSFUL"
+19:23:31 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+19:23:31 INFO  [GH3]: 	{
+19:23:31 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Overwrite successful."
+19:23:31 INFO  [GH3]: 	}
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xb86e723
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xe588860f
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x230ab08
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x15f0127b
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xfbfe7357
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x129dd662
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xfc93b74e
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x1b2b9a49
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x92680eb4
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x7c666f98
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x9505caad
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:31 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x7b0bab81
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:23:31 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 5
+19:23:31 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0x85a73ac6
+19:23:31 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4
+19:23:31 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x85a73ac6
+19:23:31 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x9556b97f
+19:23:31 INFO  [GH3]: }
+19:23:31 INFO  [GH3]: {
+19:23:31 INFO  [GH3]:   Unknown(0x2e41f796) (QTypeInt) : 5000
+19:23:31 INFO  [GH3]: }
+19:23:33 INFO  [GH3]: {
+19:23:33 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+19:23:33 INFO  [GH3]: 	{
+19:23:33 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "You will lose all unsaved progress if you quit. Are you sure you want to quit this song?"
+19:23:33 INFO  [GH3]: 	  Unknown(0x34a68574) (QTypePair) : (600, 400)
+19:23:33 INFO  [GH3]: 	  Unknown(0x13b9da7b) (QTypeFloat) : 0.6
+19:23:33 INFO  [GH3]: 	}
+19:23:33 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+19:23:33 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0xeafc692e
+19:23:33 INFO  [GH3]:   Unknown(0xe787d761) (QTypePair) : (640, 480)
+19:23:33 INFO  [GH3]:   Unknown(0xad8a5a63) (QTypePair) : (600, 80)
+19:23:33 INFO  [GH3]:   Unknown(0x2fca0578) (QTypeQbArray) : Type:"QTypeQbArray" Size:1109428960
+19:23:33 INFO  [GH3]: }
+19:23:35 INFO  [GH3]: {
+19:23:35 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:35 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xfdb97cb6
+19:23:35 INFO  [GH3]: }
+19:23:37 INFO  [GH3]: {
+19:23:37 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:37 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xe764c50f
+19:23:37 INFO  [GH3]: }
+19:23:37 INFO  [GH3]: {
+19:23:37 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:37 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xc2921efe
+19:23:37 INFO  [GH3]: }
+19:23:37 INFO  [GH3]: {
+19:23:37 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:37 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x2c9c7fd2
+19:23:37 INFO  [GH3]: }
+19:23:38 INFO  [GH3]: {
+19:23:38 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:38 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xc5ffdae7
+19:23:38 INFO  [GH3]: }
+19:23:38 INFO  [GH3]: {
+19:23:38 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:38 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x2bf1bbcb
+19:23:38 INFO  [GH3]: }
+19:23:38 INFO  [GH3]: {
+19:23:38 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:38 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xcc4996cc
+19:23:38 INFO  [GH3]: }
+19:23:38 INFO  [GH3]: {
+19:23:38 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:38 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xdb892fbf
+19:23:38 INFO  [GH3]: }
+19:23:39 INFO  [GH3]: {
+19:23:39 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:39 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x35874e93
+19:23:39 INFO  [GH3]: }
+19:23:39 INFO  [GH3]: {
+19:23:39 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:39 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xdce4eba6
+19:23:39 INFO  [GH3]: }
+19:23:39 INFO  [GH3]: {
+19:23:39 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:39 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x32ea8a8a
+19:23:39 INFO  [GH3]: }
+19:23:41 INFO  [GH3]: {
+19:23:41 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:41 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x7e2fc823
+19:23:41 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x9a17ba07
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x7419db2b
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x9d7a7e1e
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x73741f32
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xd8ea43fc
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x3f526efb
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xe18937b7
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xf87569b
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xe6e4f3ae
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x8ea9282
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xef52bf85
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xf89206f6
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x169c67da
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xffffc2ef
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x11f1a3c3
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xf6498ec4
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xd3bf5535
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x3db13419
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xd4d2912c
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x3adcf000
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xdd64dd07
+19:23:43 INFO  [GH3]: }
+19:23:43 INFO  [GH3]: {
+19:23:43 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:43 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xcaa46474
+19:23:43 INFO  [GH3]: }
+19:23:44 INFO  [GH3]: {
+19:23:44 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:44 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xdd64dd07
+19:23:44 INFO  [GH3]: }
+19:23:44 INFO  [GH3]: {
+19:23:44 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:44 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x3adcf000
+19:23:44 INFO  [GH3]: }
+19:23:45 INFO  [GH3]: {
+19:23:45 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:45 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xd4d2912c
+19:23:45 INFO  [GH3]: }
+19:23:45 INFO  [GH3]: {
+19:23:45 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:45 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x3db13419
+19:23:45 INFO  [GH3]: }
+19:23:46 INFO  [GH3]: {
+19:23:46 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:23:46 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xd3bf5535
+19:23:46 INFO  [GH3]: }
+19:23:46 INFO  [GH3]: {
+19:23:46 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:23:46 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 5
+19:23:46 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0x85a73ac6
+19:23:46 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4
+19:23:46 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x85a73ac6
+19:23:46 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x9556b97f
+19:23:46 INFO  [GH3]: }
+19:23:46 INFO  [GH3]: {
+19:23:46 INFO  [GH3]:   Unknown(0x7321a8d6) (QTypeQbKey) : 0x7acf53ca
+19:23:46 INFO  [GH3]: }
+19:23:46 INFO  [GH3]: {
+19:23:46 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:23:46 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:23:46 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:23:46 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:23:46 INFO  [GH3]: }
+19:23:46 INFO  [GH3]: {
+19:23:46 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:23:46 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:23:46 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:23:46 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:23:46 INFO  [GH3]: }
+19:23:47 INFO  [GH3]: {
+19:23:47 INFO  [GH3]:   Unknown(0x2e41f796) (QTypeInt) : 5000
+19:23:47 INFO  [GH3]: }
+19:24:13 INFO  [GH3]: {
+19:24:13 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+19:24:13 INFO  [GH3]: 	{
+19:24:13 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "You will lose all unsaved progress if you restart. Are you sure you want to restart this song?"
+19:24:13 INFO  [GH3]: 	  Unknown(0x34a68574) (QTypePair) : (600, 400)
+19:24:13 INFO  [GH3]: 	  Unknown(0x13b9da7b) (QTypeFloat) : 0.6
+19:24:13 INFO  [GH3]: 	}
+19:24:13 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+19:24:13 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0xeafc692e
+19:24:13 INFO  [GH3]:   Unknown(0xe787d761) (QTypePair) : (640, 480)
+19:24:13 INFO  [GH3]:   Unknown(0xad8a5a63) (QTypePair) : (600, 80)
+19:24:13 INFO  [GH3]:   Unknown(0x2fca0578) (QTypeQbArray) : Type:"QTypeQbArray" Size:1389766352
+19:24:13 INFO  [GH3]: }
+19:24:13 INFO  [GH3]: {
+19:24:13 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:24:13 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 5
+19:24:13 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0x85a73ac6
+19:24:13 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4
+19:24:13 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x85a73ac6
+19:24:13 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x9556b97f
+19:24:13 INFO  [GH3]: }
+19:24:13 INFO  [GH3]: {
+19:24:13 INFO  [GH3]:   Unknown(0x2e41f796) (QTypeInt) : 3000
+19:24:13 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0xda99b63b
+19:24:13 INFO  [GH3]: }
+19:26:05 INFO  [GH3]: {
+19:26:05 INFO  [GH3]:   Unknown(0x7323e97c) (QTypeQbArray) : Type:"QTypeQbArray" Size:1389793712
+19:26:05 INFO  [GH3]: }
+19:26:06 INFO  [GH3]: {
+19:26:06 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x3ce5eb79
+19:26:06 INFO  [GH3]: }
+19:26:06 INFO  [GH3]: {
+19:26:06 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xed108a91
+19:26:06 INFO  [GH3]: }
+19:26:06 INFO  [GH3]: {
+19:26:06 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x31eebbd
+19:26:06 INFO  [GH3]: }
+19:26:06 INFO  [GH3]: {
+19:26:06 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xea7d4e88
+19:26:06 INFO  [GH3]: }
+19:26:06 INFO  [GH3]: {
+19:26:06 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x4732fa4
+19:26:06 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x5f035249
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xb10d3365
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x56b51e62
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x3ec171f3
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xd0cf10df
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x39acb5ea
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xd7a2d4c6
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x301af9c1
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x27da40b2
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xc9d4219e
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x20b784ab
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xceb9e587
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x2901c880
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xcf71371
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xe2f9725d
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xb9ad768
+19:26:07 INFO  [GH3]: }
+19:26:07 INFO  [GH3]: {
+19:26:07 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:07 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xe594b644
+19:26:07 INFO  [GH3]: }
+19:26:08 INFO  [GH3]: {
+19:26:08 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:08 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xfa4445ee
+19:26:08 INFO  [GH3]: }
+19:26:08 INFO  [GH3]: {
+19:26:08 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:08 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x1dfc68e9
+19:26:08 INFO  [GH3]: }
+19:26:08 INFO  [GH3]: {
+19:26:08 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:08 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x5c66761c
+19:26:08 INFO  [GH3]: }
+19:26:09 INFO  [GH3]: {
+19:26:09 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:09 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xb2681730
+19:26:09 INFO  [GH3]: }
+19:26:09 INFO  [GH3]: {
+19:26:09 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:09 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x5b0bb205
+19:26:09 INFO  [GH3]: }
+19:26:13 INFO  [GH3]: {
+19:26:13 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:13 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xb505d329
+19:26:13 INFO  [GH3]: }
+19:26:13 INFO  [GH3]: {
+19:26:13 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:13 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x52bdfe2e
+19:26:13 INFO  [GH3]: }
+19:26:14 INFO  [GH3]: {
+19:26:14 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:14 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x457d475d
+19:26:14 INFO  [GH3]: }
+19:26:15 INFO  [GH3]: {
+19:26:15 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:15 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xab732671
+19:26:15 INFO  [GH3]: }
+19:26:16 INFO  [GH3]: {
+19:26:16 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:26:16 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x42108344
+19:26:16 INFO  [GH3]: }
+19:26:18 INFO  [GH3]: {
+19:26:18 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:26:18 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 4
+19:26:18 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0xd8ba347b
+19:26:18 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4294967295
+19:26:18 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x806fff30
+19:26:18 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x806fff30
+19:26:18 INFO  [GH3]: }
+19:26:19 INFO  [GH3]: {
+19:26:19 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:26:19 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:26:19 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:26:19 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:26:19 INFO  [GH3]: }
+19:26:19 INFO  [GH3]: {
+19:26:19 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:26:19 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 4
+19:26:19 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0xd8ba347b
+19:26:19 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4294967295
+19:26:19 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x806fff30
+19:26:19 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x806fff30
+19:26:19 INFO  [GH3]: }
+19:26:19 INFO  [GH3]: {
+19:26:19 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0xff03cc4e
+19:26:19 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:26:19 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:26:19 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:26:19 INFO  [GH3]: }
+19:26:19 INFO  [GH3]: {
+19:26:19 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0xff03cc4e
+19:26:19 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:26:19 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:26:19 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:26:19 INFO  [GH3]: }
+19:26:19 INFO  [GH3]: {
+19:26:19 INFO  [GH3]:   Unknown(0x2e41f796) (QTypeInt) : 8000
+19:26:19 INFO  [GH3]: }
+19:30:49 INFO  [GH3]: {
+19:30:49 INFO  [GH3]:   Unknown(0x8d53f1a8) (QTypeCString) : "p1_career"
+19:30:49 INFO  [GH3]:   Unknown(0x6f402ef3) (QTypeQbKey) : 0x27e6b559
+19:30:49 INFO  [GH3]:   Unknown(0xf9461a46) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x68e4ef11) (QTypeInt) : 1
+19:30:49 INFO  [GH3]:   Unknown(0xfc2cdee3) (QTypeQbKey) : 0x6840922f
+19:30:49 INFO  [GH3]:   Unknown(0x1fbdbe71) (QTypeInt) : 4294967295
+19:30:49 INFO  [GH3]:   Unknown(0xb38db12c) (QTypeInt) : 4294967295
+19:30:49 INFO  [GH3]:   Unknown(0x97ca3b34) (QTypeInt) : 4294967295
+19:30:49 INFO  [GH3]:   Unknown(0xa1dc81f9) (QTypeWString) : "A"
+19:30:49 INFO  [GH3]:   Unknown(0x06afff1e) (QTypeInt) : 1
+19:30:49 INFO  [GH3]:   Unknown(0x3ae567d9) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x56849e71) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0xb65414e8) (QTypeQbKey) : 0x6840922f
+19:30:49 INFO  [GH3]:   Unknown(0xfaea61a2) (QTypeCString) : "A"
+19:30:49 INFO  [GH3]:   Unknown(0x818af862) (QTypeCString) : "expert"
+19:30:49 INFO  [GH3]:   Unknown(0x4fe8ccfa) (QTypeCString) : "expert"
+19:30:49 INFO  [GH3]:   Unknown(0x28f07394) (QTypeQbArray) : Type:"QTypeQbArray" Size:1109651168
+19:30:49 INFO  [GH3]:   Unknown(0xcbc90a15) (QTypeInt) : 100
+19:30:49 INFO  [GH3]:   Unknown(0xd495ab7b) (QTypeQbArray) : Type:"QTypeQbArray" Size:1109652464
+19:30:49 INFO  [GH3]:   Unknown(0xe926d35f) (QTypeInt) : 100
+19:30:49 INFO  [GH3]:   Unknown(0x011baaf9) (QTypeInt) : 39000000
+19:30:49 INFO  [GH3]:   Unknown(0x8b89537e) (QTypeInt) : 100
+19:30:49 INFO  [GH3]:   Unknown(0x5a0d69b4) (QTypeInt) : 39000000
+19:30:49 INFO  [GH3]:   Unknown(0x6151561a) (QTypeInt) : 100
+19:30:49 INFO  [GH3]:   Unknown(0x896c2fbc) (QTypeInt) : 39000000
+19:30:49 INFO  [GH3]:   Unknown(0x02e1858b) (QTypeInt) : 100
+19:30:49 INFO  [GH3]:   Unknown(0xd365bf41) (QTypeInt) : 39000000
+19:30:49 INFO  [GH3]:   Unknown(0x95e7b7e0) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x2f2a8266) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0xa1519d6d) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0xfddc5ce1) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x94fa81cd) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x47da89ec) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x841fb3b4) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x1a2c461f) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x4eac7a14) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x41a5caa6) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x20dd76c7) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x8ab4f025) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0xfc3ed0e2) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x02c37560) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0xb9131cee) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0x2b039206) (QTypeInt) : 1
+19:30:49 INFO  [GH3]:   Unknown(0xf646cb13) (QTypeInt) : 0
+19:30:49 INFO  [GH3]:   Unknown(0xb9d4f601) (QTypeInt) : 3379
+19:30:49 INFO  [GH3]:   Unknown(0xfa991675) (QTypeFloat) : 907688
+19:30:49 INFO  [GH3]:   Unknown(0x75560617) (QTypeFloat) : 907688
+19:30:49 INFO  [GH3]: }
+19:30:50 INFO  [GH3]: {
+19:30:50 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+19:30:50 INFO  [GH3]:   Unknown(0xd4c98794) (QTypeWString) : "CHECKING..."
+19:30:50 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+19:30:50 INFO  [GH3]: 	{
+19:30:50 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Checking storage device..."
+19:30:50 INFO  [GH3]: 	}
+19:30:50 INFO  [GH3]: }
+19:30:50 INFO  [GH3]: {
+19:30:50 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+19:30:50 INFO  [GH3]:   Unknown(0xd4c98794) (QTypeWString) : "SUCCESSFUL"
+19:30:50 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+19:30:50 INFO  [GH3]: 	{
+19:30:50 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Overwrite successful."
+19:30:50 INFO  [GH3]: 	}
+19:30:50 INFO  [GH3]: }
+19:30:50 INFO  [GH3]: {
+19:30:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x88c86c4c
+19:30:50 INFO  [GH3]: }
+19:30:50 INFO  [GH3]: {
+19:30:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x6f70414b
+19:30:50 INFO  [GH3]: }
+19:30:50 INFO  [GH3]: {
+19:30:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x78b0f838
+19:30:50 INFO  [GH3]: }
+19:30:50 INFO  [GH3]: {
+19:30:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x96be9914
+19:30:50 INFO  [GH3]: }
+19:30:50 INFO  [GH3]: {
+19:30:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x7fdd3c21
+19:30:50 INFO  [GH3]: }
+19:30:50 INFO  [GH3]: {
+19:30:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x91d35d0d
+19:30:50 INFO  [GH3]: }
+19:30:50 INFO  [GH3]: {
+19:30:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x766b700a
+19:30:50 INFO  [GH3]: }
+19:30:50 INFO  [GH3]: {
+19:30:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x539dabfb
+19:30:50 INFO  [GH3]: }
+19:30:50 INFO  [GH3]: {
+19:30:50 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:50 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xbd93cad7
+19:30:50 INFO  [GH3]: }
+19:30:52 INFO  [GH3]: {
+19:30:52 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:52 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x54f06fe2
+19:30:52 INFO  [GH3]: }
+19:30:52 INFO  [GH3]: {
+19:30:52 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:52 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xbafe0ece
+19:30:52 INFO  [GH3]: }
+19:30:53 INFO  [GH3]: {
+19:30:53 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:53 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x5d4623c9
+19:30:53 INFO  [GH3]: }
+19:30:54 INFO  [GH3]: {
+19:30:54 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:54 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xbafe0ece
+19:30:54 INFO  [GH3]: }
+19:30:54 INFO  [GH3]: {
+19:30:54 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:54 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x54f06fe2
+19:30:54 INFO  [GH3]: }
+19:30:54 INFO  [GH3]: {
+19:30:54 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:54 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xbd93cad7
+19:30:54 INFO  [GH3]: }
+19:30:54 INFO  [GH3]: {
+19:30:54 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:54 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x539dabfb
+19:30:54 INFO  [GH3]: }
+19:30:54 INFO  [GH3]: {
+19:30:54 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:54 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x766b700a
+19:30:54 INFO  [GH3]: }
+19:30:54 INFO  [GH3]: {
+19:30:54 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:54 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x91d35d0d
+19:30:54 INFO  [GH3]: }
+19:30:55 INFO  [GH3]: {
+19:30:55 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:55 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x7fdd3c21
+19:30:55 INFO  [GH3]: }
+19:30:55 INFO  [GH3]: {
+19:30:55 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:55 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x96be9914
+19:30:55 INFO  [GH3]: }
+19:30:55 INFO  [GH3]: {
+19:30:55 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:55 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x78b0f838
+19:30:55 INFO  [GH3]: }
+19:30:58 INFO  [GH3]: {
+19:30:58 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:58 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x78b0f838
+19:30:58 INFO  [GH3]: }
+19:30:59 INFO  [GH3]: {
+19:30:59 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:30:59 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x6f70414b
+19:30:59 INFO  [GH3]: }
+19:31:00 INFO  [GH3]: {
+19:31:00 INFO  [GH3]:   Unknown(0xb30d9965) (QTypeInt) : 0
+19:31:00 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x88c86c4c
+19:31:00 INFO  [GH3]: }
+19:31:01 INFO  [GH3]: {
+19:31:01 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:31:01 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 1
+19:31:01 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0xcd5f77de
+19:31:01 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4294967295
+19:31:01 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x806fff30
+19:31:01 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x806fff30
+19:31:01 INFO  [GH3]: }
+19:31:01 INFO  [GH3]: {
+19:31:01 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x6086aa70
+19:31:01 INFO  [GH3]:   Unknown(0x520c0c9c) (QTypeQbKey) : 0x806fff30
+19:31:01 INFO  [GH3]:   Unknown(0x26861025) (QTypeQbKey) : 0x0000
+19:31:01 INFO  [GH3]:   Unknown(0xec953eec) (QTypeInt) : 0
+19:31:01 INFO  [GH3]: }
+19:31:01 INFO  [GH3]: {
+19:31:01 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:31:01 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 1
+19:31:01 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0xcd5f77de
+19:31:01 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4294967295
+19:31:01 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x806fff30
+19:31:01 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x806fff30
+19:31:01 INFO  [GH3]: }
+19:31:01 INFO  [GH3]: {
+19:31:01 INFO  [GH3]:   Unknown(0x2e41f796) (QTypeInt) : 8000
+19:31:01 INFO  [GH3]: }
+19:31:03 INFO  [GH3]: {
+19:31:03 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:31:03 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 1
+19:31:03 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0xcd5f77de
+19:31:03 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4
+19:31:03 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x846455dc
+19:31:03 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x923b7d66
+19:31:03 INFO  [GH3]: }
+19:31:03 INFO  [GH3]: {
+19:31:03 INFO  [GH3]:   Unknown(0x83aaa1a0) (QTypeQbKey) : 0xeb323e20
+19:31:03 INFO  [GH3]:   Unknown(0xdb616875) (QTypeInt) : 1
+19:31:03 INFO  [GH3]:   Unknown(0xd8f1a5c6) (QTypeQbKey) : 0xcd5f77de
+19:31:03 INFO  [GH3]:   Unknown(0xb7822ed8) (QTypeInt) : 4
+19:31:03 INFO  [GH3]:   Unknown(0xcc12115e) (QTypeQbKey) : 0x846455dc
+19:31:03 INFO  [GH3]:   Unknown(0x8a4c762d) (QTypeQbKey) : 0x923b7d66
+19:31:03 INFO  [GH3]: }
+19:31:03 INFO  [GH3]: {
+19:31:03 INFO  [GH3]:   Unknown(0x7321a8d6) (QTypeQbKey) : 0xbbda0406
+19:31:03 INFO  [GH3]: }
+19:31:06 INFO  [GH3]: {
+19:31:06 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+19:31:06 INFO  [GH3]: 	{
+19:31:06 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Your progress in this song will be lost if you exit to Practice now. Exit?"
+19:31:06 INFO  [GH3]: 	  Unknown(0x34a68574) (QTypePair) : (600, 400)
+19:31:06 INFO  [GH3]: 	  Unknown(0x13b9da7b) (QTypeFloat) : 0.6
+19:31:06 INFO  [GH3]: 	}
+19:31:06 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+19:31:06 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0xeafc692e
+19:31:06 INFO  [GH3]:   Unknown(0xe787d761) (QTypePair) : (640, 480)
+19:31:06 INFO  [GH3]:   Unknown(0xad8a5a63) (QTypePair) : (600, 80)
+19:31:06 INFO  [GH3]:   Unknown(0x2fca0578) (QTypeQbArray) : Type:"QTypeQbArray" Size:1109423040
+19:31:06 INFO  [GH3]: }
+19:31:09 INFO  [GH3]: {
+19:31:09 INFO  [GH3]:   Unknown(0x2e41f796) (QTypeInt) : 5000
+19:31:09 INFO  [GH3]:   Unknown(0x00000000) (QTypeQbKey) : 0x8013cbb1
+19:31:09 INFO  [GH3]: }

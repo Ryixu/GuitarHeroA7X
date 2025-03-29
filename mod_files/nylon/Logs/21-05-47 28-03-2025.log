@@ -1,0 +1,54 @@
+21:05:47 INFO  [Nylon]: Wine was not detected. Assuming we are running on a Windows NT OS Please report this if this detection is an error.
+21:05:47 INFO  [Nylon]: Minhook initialized!
+21:05:47 INFO  [Nylon]: Setting up default hooks...
+21:05:47 INFO  [Nylon]: Hooked function at address: 0x764E89E0
+21:05:47 INFO  [Nylon]: Hooked function at address: 0x764E8320
+21:05:47 INFO  [Nylon]: Hooked function at address: 0x764E2520
+21:05:47 INFO  [Nylon]: Hooked function at address: 0x00530970
+21:05:47 INFO  [Nylon]: Hooked function at address: 0x00530940
+21:05:47 INFO  [Nylon]: Hooked function at address: 0x004A1780
+21:05:47 INFO  [Nylon]: Hooked function at address: 0x00472B50
+21:05:47 INFO  [Nylon]: Hooked function at address: 0x0057B940
+21:05:47 INFO  [Nylon]: Hooked function at address: 0x00601D30
+21:05:47 INFO  [Nylon]: Hooked function at address: 0x0047DFA0
+21:05:48 INFO  [Nylon]: Hooked function at address: 0x0057AE20
+21:05:48 INFO  [Nylon]: Hooked function at address: 0x00D94EE8
+21:05:48 INFO  [Nylon]: Hooked function at address: 0x004A6820
+21:05:48 INFO  [Nylon]: Hooked function at address: 0x0047E5B0
+21:05:48 INFO  [Nylon]: Finished setting up default hooks.
+21:05:48 INFO  [Nylon]: Loading mods...
+21:05:48 INFO  [Nylon]: Loading mods from: "C:\Games\Guitar Hero III\nylon\Mods"
+21:05:48 INFO  [Nylon]: Checking for: "C:\Games\Guitar Hero III\nylon\Mods\GH3Deluxe\modinfo.json"...
+21:05:48 INFO  [Nylon]: Loading...
+21:05:48 INFO  [Nylon]: Found mod: gh3dx
+21:05:48 INFO  [Nylon]: Finished loading mods.
+21:05:48 INFO  [Nylon]: Finished Core Initialization!
+21:05:49 INFO  [Nylon]: Expecting: "GH3Deluxe\pak\gh3dx.pak"
+21:05:49 INFO  [Nylon]: Found it! Loading...
+21:05:49 INFO  [Nylon]: Done!
+21:05:50 INFO  [Nylon]: Hooking DirectX 9...
+21:05:50 INFO  [Nylon]: Hooked function at address: 0x58906500
+21:05:50 INFO  [Nylon]: Hooked function at address: 0x58906120
+21:05:50 INFO  [Nylon]: Hooked function at address: 0x7849B040
+21:05:50 ERROR [Nylon]: Failed to hook function at address: 0x7849B040 Error Code: 3
+21:05:50 INFO  [Nylon]: Finished hooking DirectX 9.
+21:05:50 INFO  [Nylon]: Hooked function at address: 0x7849C550
+21:05:50 ERROR [Nylon]: Failed to hook function at address: 0x7849C550 Error Code: 3
+21:05:50 INFO  [Nylon]: KeyboardSetCooperativeLevel -> 6
+21:05:50 INFO  [Nylon]: KeyboardSetCooperativeLevel -> 5
+21:06:31 INFO  [GH3]: {
+21:06:31 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 3
+21:06:31 INFO  [GH3]:   Unknown(0xd4c98794) (QTypeWString) : "CHECKING..."
+21:06:31 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+21:06:31 INFO  [GH3]: 	{
+21:06:31 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Checking storage device..."
+21:06:31 INFO  [GH3]: 	}
+21:06:31 INFO  [GH3]: }
+21:06:31 INFO  [GH3]: {
+21:06:31 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 3
+21:06:31 INFO  [GH3]:   Unknown(0xd4c98794) (QTypeWString) : "SUCCESSFUL"
+21:06:31 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+21:06:31 INFO  [GH3]: 	{
+21:06:31 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Load successful."
+21:06:31 INFO  [GH3]: 	}
+21:06:31 INFO  [GH3]: }

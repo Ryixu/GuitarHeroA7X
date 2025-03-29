@@ -1,0 +1,67 @@
+00:17:26 INFO  [Nylon]: Wine was not detected. Assuming we are running on a Windows NT OS Please report this if this detection is an error.
+00:17:26 INFO  [Nylon]: Minhook initialized!
+00:17:26 INFO  [Nylon]: Setting up default hooks...
+00:17:26 INFO  [Nylon]: Hooked function at address: 0x770689E0
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x77068320
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x77062520
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x00530970
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x00530940
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x004A1780
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x00472B50
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x0057B940
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x00601D30
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x0047DFA0
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x0057AE20
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x00D94EE8
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x004A6820
+00:17:27 INFO  [Nylon]: Hooked function at address: 0x0047E5B0
+00:17:27 INFO  [Nylon]: Finished setting up default hooks.
+00:17:27 INFO  [Nylon]: Loading mods...
+00:17:27 INFO  [Nylon]: Loading mods from: "C:\Games\Guitar Hero III\nylon\Mods"
+00:17:27 INFO  [Nylon]: Checking for: "C:\Games\Guitar Hero III\nylon\Mods\GH3Deluxe\modinfo.json"...
+00:17:27 INFO  [Nylon]: Loading...
+00:17:27 INFO  [Nylon]: Found mod: gh3dx
+00:17:27 INFO  [Nylon]: Finished loading mods.
+00:17:27 INFO  [Nylon]: Finished Core Initialization!
+00:17:27 INFO  [Nylon]: Expecting: "GH3Deluxe\pak\gh3dx.pak"
+00:17:27 INFO  [Nylon]: Found it! Loading...
+00:17:27 INFO  [Nylon]: Done!
+00:17:28 INFO  [Nylon]: Hooking DirectX 9...
+00:17:28 INFO  [Nylon]: Hooked function at address: 0x599D6500
+00:17:28 INFO  [Nylon]: Hooked function at address: 0x599D6120
+00:17:28 INFO  [Nylon]: Hooked function at address: 0x7AB0B040
+00:17:28 ERROR [Nylon]: Failed to hook function at address: 0x7AB0B040 Error Code: 3
+00:17:28 INFO  [Nylon]: Finished hooking DirectX 9.
+00:17:28 INFO  [Nylon]: Hooked function at address: 0x7AB0C550
+00:17:28 ERROR [Nylon]: Failed to hook function at address: 0x7AB0C550 Error Code: 3
+00:17:28 INFO  [Nylon]: KeyboardSetCooperativeLevel -> 6
+00:17:28 INFO  [Nylon]: KeyboardSetCooperativeLevel -> 5
+00:17:33 INFO  [GH3]: {
+00:17:33 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 3
+00:17:33 INFO  [GH3]:   Unknown(0xd4c98794) (QTypeWString) : "CHECKING..."
+00:17:33 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+00:17:33 INFO  [GH3]: 	{
+00:17:33 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Checking storage device..."
+00:17:33 INFO  [GH3]: 	}
+00:17:33 INFO  [GH3]: }
+00:17:33 INFO  [GH3]: {
+00:17:33 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 3
+00:17:33 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+00:17:33 INFO  [GH3]: 	{
+00:17:33 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Game content is damaged and cannot be used. Do you want to delete this content? All progress within this save content will be lost."
+00:17:33 INFO  [GH3]: 	  Unknown(0x34a68574) (QTypePair) : (800, 500)
+00:17:33 INFO  [GH3]: 	  Unknown(0x7f261953) (QTypePair) : (640, 375)
+00:17:33 INFO  [GH3]: 	  Unknown(0x13b9da7b) (QTypeFloat) : 0.5
+00:17:33 INFO  [GH3]: 	}
+00:17:33 INFO  [GH3]:   Unknown(0xe787d761) (QTypePair) : (640, 465)
+00:17:33 INFO  [GH3]:   Unknown(0xad8a5a63) (QTypePair) : (256, 64)
+00:17:33 INFO  [GH3]:   Unknown(0x2fca0578) (QTypeQbArray) : Type:"QTypeQbArray" Size:1089447488
+00:17:33 INFO  [GH3]: }
+00:17:33 INFO  [GH3]: {
+00:17:33 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 3
+00:17:33 INFO  [GH3]:   Unknown(0xd4c98794) (QTypeWString) : "SUCCESSFUL"
+00:17:33 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+00:17:33 INFO  [GH3]: 	{
+00:17:33 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Load successful."
+00:17:33 INFO  [GH3]: 	}
+00:17:33 INFO  [GH3]: }

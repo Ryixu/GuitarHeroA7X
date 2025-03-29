@@ -1,0 +1,97 @@
+11:14:00 INFO  [Nylon]: Wine was not detected. Assuming we are running on a Windows NT OS Please report this if this detection is an error.
+11:14:00 INFO  [Nylon]: Minhook initialized!
+11:14:00 INFO  [Nylon]: Setting up default hooks...
+11:14:00 INFO  [Nylon]: Hooked function at address: 0x770689E0
+11:14:00 INFO  [Nylon]: Hooked function at address: 0x77068320
+11:14:00 INFO  [Nylon]: Hooked function at address: 0x77062520
+11:14:00 INFO  [Nylon]: Hooked function at address: 0x00530970
+11:14:01 INFO  [Nylon]: Hooked function at address: 0x00530940
+11:14:01 INFO  [Nylon]: Hooked function at address: 0x004A1780
+11:14:01 INFO  [Nylon]: Hooked function at address: 0x00472B50
+11:14:01 INFO  [Nylon]: Hooked function at address: 0x0057B940
+11:14:01 INFO  [Nylon]: Hooked function at address: 0x00601D30
+11:14:01 INFO  [Nylon]: Hooked function at address: 0x0047DFA0
+11:14:01 INFO  [Nylon]: Hooked function at address: 0x0057AE20
+11:14:01 INFO  [Nylon]: Hooked function at address: 0x00D94EE8
+11:14:01 INFO  [Nylon]: Hooked function at address: 0x004A6820
+11:14:01 INFO  [Nylon]: Hooked function at address: 0x0047E5B0
+11:14:01 INFO  [Nylon]: Finished setting up default hooks.
+11:14:01 INFO  [Nylon]: Loading mods...
+11:14:01 INFO  [Nylon]: Loading mods from: "C:\Games\Guitar Hero III\nylon\Mods"
+11:14:01 INFO  [Nylon]: Checking for: "C:\Games\Guitar Hero III\nylon\Mods\GH3Deluxe\modinfo.json"...
+11:14:01 INFO  [Nylon]: Loading...
+11:14:01 INFO  [Nylon]: Found mod: gh3dx
+11:14:01 INFO  [Nylon]: Finished loading mods.
+11:14:01 INFO  [Nylon]: Finished Core Initialization!
+11:14:01 INFO  [Nylon]: Expecting: "GH3Deluxe\pak\gh3dx.pak"
+11:14:01 INFO  [Nylon]: Found it! Loading...
+11:14:01 INFO  [Nylon]: Done!
+11:14:02 INFO  [Nylon]: Hooking DirectX 9...
+11:14:02 INFO  [Nylon]: Hooked function at address: 0x5A706500
+11:14:02 INFO  [Nylon]: Hooked function at address: 0x5A706120
+11:14:02 INFO  [Nylon]: Hooked function at address: 0x7A2BB040
+11:14:02 ERROR [Nylon]: Failed to hook function at address: 0x7A2BB040 Error Code: 3
+11:14:02 INFO  [Nylon]: Finished hooking DirectX 9.
+11:14:02 INFO  [Nylon]: Hooked function at address: 0x7A2BC550
+11:14:02 ERROR [Nylon]: Failed to hook function at address: 0x7A2BC550 Error Code: 3
+11:14:02 INFO  [Nylon]: KeyboardSetCooperativeLevel -> 6
+11:14:02 INFO  [Nylon]: KeyboardSetCooperativeLevel -> 5
+11:14:05 INFO  [GH3]: {
+11:14:05 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+11:14:05 INFO  [GH3]:   Unknown(0xd4c98794) (QTypeWString) : "CHECKING..."
+11:14:05 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+11:14:05 INFO  [GH3]: 	{
+11:14:05 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Checking storage device..."
+11:14:05 INFO  [GH3]: 	}
+11:14:05 INFO  [GH3]: }
+11:14:05 INFO  [GH3]: {
+11:14:05 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+11:14:05 INFO  [GH3]:   Unknown(0xd4c98794) (QTypeWString) : "SUCCESSFUL"
+11:14:05 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+11:14:05 INFO  [GH3]: 	{
+11:14:05 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeWString) : "Load successful."
+11:14:05 INFO  [GH3]: 	}
+11:14:05 INFO  [GH3]: }
+11:14:10 INFO  [GH3]: {
+11:14:10 INFO  [GH3]:   Unknown(0x7323e97c) (QTypeQbArray) : Type:"QTypeQbArray" Size:305714240
+11:14:10 INFO  [GH3]: }
+11:14:11 INFO  [GH3]: {
+11:14:11 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xcdb9661e
+11:14:11 INFO  [GH3]:   Unknown(0xcce57b1a) (QTypePair) : (510, 135)
+11:14:11 INFO  [GH3]:   Unknown(0x3b15bf22) (QTypePair) : (190, 39)
+11:14:11 INFO  [GH3]: }
+11:14:11 INFO  [GH3]: {
+11:14:11 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x24dac32b
+11:14:11 INFO  [GH3]:   Unknown(0xcce57b1a) (QTypePair) : (505, 221)
+11:14:11 INFO  [GH3]:   Unknown(0x3b15bf22) (QTypePair) : (192, 38)
+11:14:11 INFO  [GH3]: }
+11:14:11 INFO  [GH3]: {
+11:14:11 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xcad4a207
+11:14:11 INFO  [GH3]:   Unknown(0xcce57b1a) (QTypePair) : (502, 302)
+11:14:11 INFO  [GH3]:   Unknown(0x3b15bf22) (QTypePair) : (190, 55)
+11:14:11 INFO  [GH3]: }
+11:14:11 INFO  [GH3]: {
+11:14:11 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x2d6c8f00
+11:14:11 INFO  [GH3]:   Unknown(0xcce57b1a) (QTypePair) : (495, 392)
+11:14:11 INFO  [GH3]:   Unknown(0x3b15bf22) (QTypePair) : (190, 50)
+11:14:11 INFO  [GH3]: }
+11:14:11 INFO  [GH3]: {
+11:14:11 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0xf736e76a
+11:14:11 INFO  [GH3]:   Unknown(0xcce57b1a) (QTypePair) : (490, 480)
+11:14:11 INFO  [GH3]:   Unknown(0x3b15bf22) (QTypePair) : (190, 50)
+11:14:11 INFO  [GH3]: }
+11:14:16 INFO  [GH3]: {
+11:14:16 INFO  [GH3]:   Unknown(0x40c698af) (QTypeQbKey) : 0x54b037a4
+11:14:16 INFO  [GH3]:   Unknown(0xcce57b1a) (QTypePair) : (512, 93)
+11:14:16 INFO  [GH3]:   Unknown(0x3b15bf22) (QTypePair) : (190, 53)
+11:14:16 INFO  [GH3]: }
+11:14:26 INFO  [GH3]: {
+11:14:26 INFO  [GH3]:   Unknown(0x69d0dfaf) (QTypeInt) : 0
+11:14:26 INFO  [GH3]:   Unknown(0x26bf66f3) (QTypeQbStruct) : 
+11:14:26 INFO  [GH3]: 	{
+11:14:26 INFO  [GH3]: 	  Unknown(0xc4745838) (QTypeStringPointer) : (not implemented, please report this to Vultu with your code!)
+11:14:26 INFO  [GH3]: 	}
+11:14:26 INFO  [GH3]:   Unknown(0xe787d761) (QTypePair) : (640, 490)
+11:14:26 INFO  [GH3]:   Unknown(0xad8a5a63) (QTypePair) : (288, 64)
+11:14:26 INFO  [GH3]:   Unknown(0x2fca0578) (QTypeQbArray) : Type:"QTypeQbArray" Size:305582320
+11:14:26 INFO  [GH3]: }
