@@ -1,2 +1,4 @@
 # GuitarHeroA7X
-Guitar Hero A7X Mod
+Game mod for Guitar Hero III
+
+This Repo hosts the files the installer pulls from. 
