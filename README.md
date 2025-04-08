@@ -1,10 +1,5 @@
 # GuitarHeroA7X
-Guitar Hero: Avenged Sevenfold
 
-110 NEW SONGS!
+![a7x_coverart](https://github.com/user-attachments/assets/15c261de-3995-44ef-a38f-8f4053db53bd)
 
-BRAND NEW CAREER!
-
-25 NEW BONUS SONGS!
-
-45 DLC SONGS!
+[DOWNLOAD](https://github.com/Ryixu/GuitarHeroA7X/releases)
