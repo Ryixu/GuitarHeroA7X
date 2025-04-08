@@ -5,8 +5,7 @@
 
 I love Avenged Sevenfold (obviously) and I love Guitar Hero! So I decided to put my favorite band and my favorite game together, treating it as much as an official game as possible. This is yet to be 'finished' so expect changes to occur, like setlist changes / texture changes. Note: This is a PC ONLY mod for Guitar Hero 3 (deluxe is automatically included)
 
-Nylon Note (iykyk): I DONT WANT TO USE NYLON! I was already leaning heavy on it by time the stuff occured and the github was removed. If you are using Nylon for your personal GH3 files, I highly suggest removing it in favor of the hardmodded GH3DX instead. Nylon was / is very buggy and some drama went down (not explaining it here). Do NOT ask what happened in the Neverhax / Milohax servers. Its done and over with, and sometimes its fine to not know certain things (Ignorance is bliss)
-*my note makes the drama seem worse than it is. its not that bad, creator was a creep. dont dig deeper.*
+Nylon Note (iykyk): I DONT WANT TO USE NYLON! I was already leaning heavy on it by time the stuff occured and the github was removed. If you are using Nylon for your personal GH3 files, I highly suggest removing it in favor of the hardmodded GH3DX instead. Nylon was / is very buggy and some drama went down (not explaining it here). Do NOT ask what happened in the Neverhax / Milohax servers. Its done and over with, and sometimes its fine to not know certain things (Ignorance is bliss). ~ *my note makes the drama seem worse than it is. its not that bad, creator was a creep. dont dig deeper.*
 
 Enjoy and have fun!
 
