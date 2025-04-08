@@ -1,12 +1,10 @@
 # GuitarHeroA7X
-Guitar Hero A7X!
+Guitar Hero: Avenged Sevenfold
 
-75 Brand new songs total!
+110 NEW SONGS!
 
-Brand NEW Career!
+BRAND NEW CAREER!
 
-All NEW Bonus Songs!
+25 NEW BONUS SONGS!
 
-5 DLC Packs!
-
-NEW Textures!
+45 DLC SONGS!
