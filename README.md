@@ -1,5 +1,5 @@
 # GuitarHeroA7X
-[DOWNLOAD](https://github.com/Ryixu/GuitarHeroA7X/releases)
+[DOWNLOAD](https://github.com/Ryixu/GuitarHeroA7X/releases/download/v1.2.0/gha7x_v1.2_release_0.7z)
 
 ![a7x_coverart](https://github.com/user-attachments/assets/15c261de-3995-44ef-a38f-8f4053db53bd)
 
